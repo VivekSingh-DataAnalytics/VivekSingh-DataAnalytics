@@ -233,30 +233,30 @@ regional exposure patterns, credit-risk trends, and delinquency patterns.
              ↓
      🎯 BUSINESS DECISIONS
 
+
 # 📂 Portfolio
 
-<p align="center">
+### 🏥 Hospital Management Dashboard — Power BI
 
-<a href="https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI">
-<img src="https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-0078D4?style=for-the-badge">
-</a>
+[![Hospital Dashboard](https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-0078D4?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI)
 
-<br><br>
+---
 
-<a href="https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL">
-<img src="https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-4479A1?style=for-the-badge">
-</a>
+### 🍽️ Swiggy Restaurant Analytics — SQL
 
-<br><br>
+[![Swiggy Analytics](https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-4479A1?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL)
 
-<a href="https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel">
-<img src="https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-217346?style=for-the-badge">
-</a>
+---
 
-<br><br>
+### 🛍️ Myntra Sales Analysis — Excel
 
-<a href="https://github.com/VivekSingh-DataAnalytics">
-<img src="https://img.shields.io/badge/💻%20View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+[![Myntra Analysis](https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-217346?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel)
+
+---
+
+### 💻 View All My Projects
+
+[![GitHub](https://img.shields.io/badge/💻%20View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekSingh-DataAnalytics)
 </a>
 
 </p>
