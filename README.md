@@ -206,4 +206,10 @@ Analyzed:
                   ▼
           🎯 BUSINESS DECISIONS
 
+PORTFOLIO
+
 <p align="center"> <a href="https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI"> <img src="https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-blue?style=for-the-badge"/> </a> <a href="https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL"> <img src="https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-orange?style=for-the-badge"/> </a> <a href="https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel"> <img src="https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-green?style=for-the-badge"/> </a> </p>
+
+CONNECT
+
+<p align="center"> <a href="https://www.linkedin.com/in/vivek-singh-044b5527b"> <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/VivekSingh-DataAnalytics"> <img src="https://img.shields.io/badge/GitHub-VivekSingh--DataAnalytics-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
