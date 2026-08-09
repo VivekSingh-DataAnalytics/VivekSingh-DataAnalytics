@@ -232,3 +232,31 @@ regional exposure patterns, credit-risk trends, and delinquency patterns.
         💡 INSIGHTS
              ↓
      🎯 BUSINESS DECISIONS
+
+# 📂 Portfolio
+
+<p align="center">
+
+<a href="https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI">
+<img src="https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-0078D4?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL">
+<img src="https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-4479A1?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel">
+<img src="https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-217346?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/VivekSingh-DataAnalytics">
+<img src="https://img.shields.io/badge/💻%20View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
