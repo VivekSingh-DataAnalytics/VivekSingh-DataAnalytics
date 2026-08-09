@@ -207,56 +207,56 @@ regional exposure patterns, credit-risk trends, and delinquency patterns.
 `Excel` `Data Analysis` `Financial Analytics`
 `Risk Analysis` `Data Visualization` `Dashboard Design`
 
----
-
 # 🔄 My Data Analytics Workflow
 
-```text
-📥 RAW DATA
-     ↓
-🧹 DATA CLEANING
-     ↓
-🔄 DATA TRANSFORMATION
-     ↓
-🔍 EXPLORATORY DATA ANALYSIS
-     ↓
-┌─────────┬─────────┬─────────┐
-↓         ↓         ↓
-🗄️ SQL    🐍 Python  📗 Excel
-└─────────┴─────────┴─────────┘
-             ↓
-        📊 POWER BI
-             ↓
-        📈 DASHBOARD
-             ↓
-        💡 INSIGHTS
-             ↓
-     🎯 BUSINESS DECISIONS
+📥 **Raw Data** → 🧹 **Data Cleaning** → 🔄 **Transformation** → 🔍 **Analysis** → 📊 **Visualization** → 💡 **Insights** → 🎯 **Business Decisions**
 
+---
 
 # 📂 Portfolio
 
 ### 🏥 Hospital Management Dashboard — Power BI
 
-[![Hospital Dashboard](https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-0078D4?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI)
-
----
+[![Hospital Dashboard](https://img.shields.io/badge/Hospital%20Dashboard-Power%20BI-0078D4?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI)
 
 ### 🍽️ Swiggy Restaurant Analytics — SQL
 
-[![Swiggy Analytics](https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-4479A1?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL)
-
----
+[![Swiggy Analytics](https://img.shields.io/badge/Swiggy%20Analytics-SQL-4479A1?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL)
 
 ### 🛍️ Myntra Sales Analysis — Excel
 
-[![Myntra Analysis](https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-217346?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel)
+[![Myntra Analysis](https://img.shields.io/badge/Myntra%20Analysis-Excel-217346?style=for-the-badge)](https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel)
+
+### 💻 All My Projects
+
+[![GitHub](https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekSingh-DataAnalytics)
 
 ---
 
-### 💻 View All My Projects
+# 🎯 Current Focus
 
-[![GitHub](https://img.shields.io/badge/💻%20View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekSingh-DataAnalytics)
-</a>
+- 📌 Advanced SQL Analytics
+- 📌 Power BI & DAX
+- 📌 Python for Data Analysis
+- 📌 Business Intelligence
+- 📌 Data Visualization
+- 📌 Real-world Data Analytics Projects
 
-</p>
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-singh-044b5527b)
+
+[![GitHub](https://img.shields.io/badge/GitHub-VivekSingh--DataAnalytics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekSingh-DataAnalytics)
+
+[![Email](https://img.shields.io/badge/Email-vs5122253%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vs5122253@gmail.com)
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+### 📊 Turning raw data into insights, dashboards, and decisions.
+
+---
+
