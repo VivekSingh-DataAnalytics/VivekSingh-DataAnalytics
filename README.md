@@ -205,3 +205,5 @@ Analyzed:
                   │
                   ▼
           🎯 BUSINESS DECISIONS
+
+<p align="center"> <a href="https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI"> <img src="https://img.shields.io/badge/🏥%20Hospital%20Dashboard-Power%20BI-blue?style=for-the-badge"/> </a> <a href="https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL"> <img src="https://img.shields.io/badge/🍽️%20Swiggy%20Analytics-SQL-orange?style=for-the-badge"/> </a> <a href="https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel"> <img src="https://img.shields.io/badge/🛍️%20Myntra%20Analysis-Excel-green?style=for-the-badge"/> </a> </p>
