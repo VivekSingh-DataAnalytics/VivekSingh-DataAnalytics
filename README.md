@@ -1,65 +1,72 @@
 # 👋 Hi, I'm Vivek Singh
 
-### 📊 Data Analyst | SQL | Power BI | Python | Excel | Business Intelligence
+## 📊 Data Analyst | SQL | Power BI | Python | Excel | Business Intelligence
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎯 I'm a **Data Analyst** focused on transforming raw data into meaningful
-business insights.
+I'm a **Data Analyst** focused on transforming raw data into meaningful
+business insights, interactive dashboards, and data-driven solutions.
 
-I work across the complete analytics workflow:
+I enjoy working across the complete analytics workflow:
 
 **Raw Data → Cleaning → Transformation → Analysis → Visualization → Insights**
 
-🔹 SQL & Business Analysis  
-🔹 Power BI Dashboards  
-🔹 Python & Exploratory Data Analysis  
-🔹 Advanced Excel Analytics  
-🔹 KPI Development & Reporting  
+### 🔹 What I Work With
+
+- 🗄️ SQL & SQL Server
+- 📊 Power BI & DAX
+- 📗 Microsoft Excel
+- 🐍 Python & Pandas
+- 📈 Tableau
+- 🧹 Data Cleaning & Transformation
+- 📊 KPI Development & Reporting
+- 💡 Business Analysis
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ### 🗄️ SQL & Databases
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white">
 </p>
 
-**Skills:**  
-`CTEs` `Window Functions` `Subqueries` `Joins` `Aggregations`
-`CASE Statements` `DENSE_RANK()` `NTILE()`
+`Joins` `CTEs` `Subqueries` `Window Functions` `Aggregations`
+`CASE Statements` `DENSE_RANK()` `NTILE()` `GROUP BY` `HAVING`
 
 ---
 
 ### 📊 Business Intelligence
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
 </p>
+
+`DAX` `Power Query` `Data Modeling` `KPI Dashboards`
+`Interactive Reports` `Data Visualization`
 
 ---
 
 ### 📗 Microsoft Excel
 
 <p>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
 </p>
 
 `Pivot Tables` `Pivot Charts` `Slicers` `Data Cleaning`
@@ -70,196 +77,158 @@ I work across the complete analytics workflow:
 ### 🐍 Python
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white">
 </p>
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Data Cleaning` `EDA` `Data Visualization`
 
 ---
 
-# 📌 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
+# 🚀 Featured Projects
 
 ## 🏥 Hospital Management Dashboard
 
-📊 **Power BI**
+### Power BI | DAX | Power Query
 
-Interactive healthcare analytics dashboard covering:
+Interactive healthcare analytics dashboard designed for hospital
+performance monitoring and operational analysis.
+
+### 🔍 Key Analysis
 
 - 👥 Patient Analytics
 - 💰 Revenue Analysis
 - 🏥 Department Performance
-- 💳 Insurance Analysis
+- 💳 Insurance Provider Analysis
 - 📈 Patient Satisfaction
 - 🚨 Emergency Visits
+- 📊 Monthly Hospital Trends
+- 📋 Hospital Records
+- 💡 Business Insights
 
-**Tools**
+### 🛠️ Technologies
 
-`Power BI` `DAX` `Power Query`
+`Power BI` `DAX` `Power Query` `Data Modeling`
 
-</td>
+🔗 **[View Hospital Dashboard Project](https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI)**
 
-<td width="50%">
+---
 
 ## 🍽️ Swiggy Restaurant Analytics
 
-🗄️ **SQL**
+### SQL | SQL Server | Data Analysis
 
-Business-driven restaurant analytics covering:
+Business-driven SQL analysis of Swiggy restaurant data to uncover
+restaurant and location-based insights.
 
-- 📍 City Analysis
-- ⭐ Restaurant Ratings
+### 🔍 Key Analysis
+
+- 📍 City-wise Restaurant Analysis
+- ⭐ Restaurant Rating Analysis
 - 🏪 Restaurant Distribution
 - 💰 Price Analysis
 - 🏆 Restaurant Ranking
+- 📊 Restaurant Performance
 
-**Techniques**
+### 🧠 SQL Techniques
 
-`CTEs` `Window Functions` `Subqueries` `DENSE_RANK`
+`CTEs` `Window Functions` `Subqueries`
+`DENSE_RANK()` `NTILE()` `Aggregations`
+`GROUP BY` `HAVING` `CASE`
 
-</td>
+🔗 **[View Swiggy SQL Project](https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL)**
 
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🛍️ Myntra Sales Analysis
 
-📗 **Excel**
+### Excel | Pivot Tables | Pivot Charts | Slicers
 
-Analyzed **45,275 products** across **3,194 brands**.
+Interactive Excel dashboard analyzing **45,275 products across 3,194 brands**.
 
-📊 Product Analysis  
-🏷️ Brand Performance  
-⭐ Rating Analysis  
-💰 Discount Analysis  
-📈 Interactive Dashboard
+### 📊 Key Metrics
 
-**Tools**
+| Metric | Value |
+|---|---:|
+| 🛍️ Total Products | 45,275 |
+| 🏷️ Total Brands | 3,194 |
+| ⭐ Average Product Rating | 2.26 |
+| 🏷️ Product Tags | 341 |
+| 💰 Average Discount | 37.25% |
+
+### 🔍 Analysis
+
+- 🏷️ Top Brands by Product Count
+- 📊 Brand Performance
+- ⭐ Rating Distribution
+- 📈 Rating Bucket Analysis
+- 💰 Discount Analysis
+- 🛍️ Product Distribution
+- 📊 Interactive Dashboard
+
+### 🛠️ Technologies
 
 `Excel` `Pivot Tables` `Pivot Charts` `Slicers`
+`Data Cleaning` `Data Visualization`
 
-</td>
+🔗 **[View Myntra Excel Project](https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel)**
 
-<td width="50%">
+---
 
-## 💳 Financial Risk Dashboard
+## 💳 Financial Risk & Delinquency Dashboard
 
-📊 **Financial Analytics**
+### Financial Analytics | Risk Analysis | Data Visualization
 
-Analyzed:
+Dashboard focused on portfolio exposure, delinquency,
+customer risk segmentation, and financial risk analysis.
+
+### 📊 Key Analysis
 
 - 💰 Portfolio Exposure
-- ⚠️ Delinquency
+- ⚠️ Delinquency Rate
 - 👥 High-Risk Customers
 - 📍 Regional Risk
-- 💳 Credit Scores
+- 💳 Credit Score Analysis
+- 📊 Risk Segmentation
 - 📈 Portfolio Trends
+- 👤 Customer Demographics
 
-**Tools**
+### 🎯 Business Focus
 
-`Excel` `Data Analysis` `Visualization`
+The dashboard helps identify high-risk customer segments,
+regional exposure patterns, credit-risk trends, and delinquency patterns.
 
-</td>
+### 🛠️ Technologies
 
-</tr>
-</table>
+`Excel` `Data Analysis` `Financial Analytics`
+`Risk Analysis` `Data Visualization` `Dashboard Design`
 
 ---
 
-# 🔄 My Analytics Workflow
+# 🔄 My Data Analytics Workflow
 
 ```text
-             📥 RAW DATA
-                  │
-                  ▼
-          🧹 DATA CLEANING
-                  │
-                  ▼
-        🔄 TRANSFORMATION
-                  │
-                  ▼
-       🔍 EXPLORATORY ANALYSIS
-                  │
-        ┌─────────┼─────────┐
-        ▼         ▼         ▼
-      🗄️ SQL    🐍 Python  📗 Excel
-        │         │         │
-        └─────────┼─────────┘
-                  ▼
-             📊 POWER BI
-                  │
-                  ▼
-             📈 DASHBOARD
-                  │
-                  ▼
-             💡 INSIGHTS
-                  │
-                  ▼
-          🎯 BUSINESS DECISIONS
-
-# 📂 Portfolio
-
-<p align="center">
-
-<a href="https://github.com/VivekSingh-DataAnalytics/Hospital-Management-Dashboard-PowerBI">
-  <img src="https://img.shields.io/badge/🏥%20Hospital%20Management%20Dashboard-Power%20BI-0078D4?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/VivekSingh-DataAnalytics/Swiggy-Restaurant-Analytics-SQL">
-  <img src="https://img.shields.io/badge/🍽️%20Swiggy%20Restaurant%20Analytics-SQL-4479A1?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/VivekSingh-DataAnalytics/Myntra-Sales-Analysis-Excel">
-  <img src="https://img.shields.io/badge/🛍️%20Myntra%20Sales%20Analysis-Excel-217346?style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/VivekSingh-DataAnalytics">
-  <img src="https://img.shields.io/badge/💻%20View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vivek-singh-044b5527b">
-  <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/VivekSingh-DataAnalytics">
-  <img src="https://img.shields.io/badge/GitHub-VivekSingh--DataAnalytics-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="mailto:vs5122253@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vs5122253%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Turning raw data into insights, dashboards, and decisions.** 📊
+📥 RAW DATA
+     ↓
+🧹 DATA CLEANING
+     ↓
+🔄 DATA TRANSFORMATION
+     ↓
+🔍 EXPLORATORY DATA ANALYSIS
+     ↓
+┌─────────┬─────────┬─────────┐
+↓         ↓         ↓
+🗄️ SQL    🐍 Python  📗 Excel
+└─────────┴─────────┴─────────┘
+             ↓
+        📊 POWER BI
+             ↓
+        📈 DASHBOARD
+             ↓
+        💡 INSIGHTS
+             ↓
+     🎯 BUSINESS DECISIONS
